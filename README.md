@@ -6,12 +6,7 @@ Dark Implementation of Visual Studio Code's Quiet Light.
 
 </div>
 
-Screenshots!
-
-![Theme Screenshot](images/FirstImage.PNG)
-
-![Theme Screenshot](images/SecondImage.PNG)
-
+![Theme Screenshot](images/code_sample.png)
 
 # Installation
 
